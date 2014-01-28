@@ -17,7 +17,7 @@
                 fetch="git://git.yoctoproject.org/" />
  
         <remote name="ettus"
-                fetch="git://github.com/EttusResearch" />
+                fetch="https://github.com/EttusResearch" />
 
 	<default remote="openembedded" revision="master"  />
 
