@@ -27,7 +27,7 @@
 
 	<project name="meta-xilinx" remote="balister" path="meta-xilinx" revision="working-branch" />
 
-	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="e200-work" />
+	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="e300-work" />
 	<project name="meta-sdr" remote="balister" path="meta-sdr" />
         <project name="meta-fsl-arm" remote="freescale" path="meta-fsl-arm" />
         <project name="meta-fsl-arm-extra" remote="freescale" path="meta-fsl-arm-extra" />
