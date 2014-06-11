@@ -24,7 +24,7 @@
 
 	<project name="meta-xilinx" remote="Xilinx" path="meta-xilinx" revision="75849dd92dbde2e9bb1c1b1dd39f620bac88ad8c" upstream="refs/heads/daisy" />
 
-	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="0cdd93e4c4216d9c0c970e984bb0b41893183bd5" upstream="refs/heads/e300-daisy" />
+	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="6558685694041e66a3c8bcb5f206b15a777a86b6" upstream="refs/heads/e300-daisy" />
 	<project name="meta-sdr" remote="balister" path="meta-sdr" revision="9efe0054c18f10279bd42350b596b639e24d728b" upstream="daisy" />
 
 </manifest>
