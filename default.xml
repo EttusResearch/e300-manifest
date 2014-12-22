@@ -16,9 +16,6 @@
         <remote name="yocto"
                 fetch="git://git.yoctoproject.org/" />
  
-        <remote name="ettus"
-                fetch="http://github.com/EttusResearch" />
-
 	<default remote="openembedded" revision="master"  />
 
 	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="f21410a8bc08da2a6de2b53bdf61d3df68b17b97" upstream="refs/head/master" />
