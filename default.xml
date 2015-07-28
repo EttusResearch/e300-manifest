@@ -23,6 +23,6 @@
 	<project name="openembedded-core"  path="oe-core" revision="de6e4114d5285ea0d2a53d19c93ce96430cc9e30" />
 	<project name="meta-openembedded"  path="meta-oe" revision="5b6f39ce325d490fc382d5d59c5b8b9d5fa38b38"  />
 	<project name="meta-xilinx" remote="Xilinx" path="meta-xilinx" revision="5a7d8383fbce38373957e9567a524959c9a8c17e" />
-	<project name="meta-sdr" remote="balister" path="meta-sdr" revision="1a667bf5abfd8ec39ed671c19ba4b5571050348f" />
+	<project name="meta-sdr" remote="balister" path="meta-sdr" revision="b4ce1f3f1a872d44121483c7e8fbdccba847345a" />
 
 </manifest>
