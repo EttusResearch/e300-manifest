@@ -18,11 +18,11 @@
  
 	<default remote="openembedded" revision="master"  />
 
-	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="fc4fa2b32fd7d4a4becf53690db50217e2b4aaf0" />
-	<project name="bitbake"  path="bitbake" revision="fbf1c39641f78d553961974a2bb96256eb9496e7" />
-	<project name="openembedded-core"  path="oe-core" revision="de6e4114d5285ea0d2a53d19c93ce96430cc9e30" />
-	<project name="meta-openembedded"  path="meta-oe" revision="5b6f39ce325d490fc382d5d59c5b8b9d5fa38b38"  />
-	<project name="meta-xilinx" remote="Xilinx" path="meta-xilinx" revision="5a7d8383fbce38373957e9567a524959c9a8c17e" />
-	<project name="meta-sdr" remote="balister" path="meta-sdr" revision="b4ce1f3f1a872d44121483c7e8fbdccba847345a" />
+	<project name="meta-ettus" remote="ettus" path="meta-ettus" revision="57205cce1686ec8f2167382fc2f2cf1849c7a1dc" />
+	<project name="bitbake"  path="bitbake" revision="b09966906ef054834f0b465f0c5a2a937b4c4a4c" />
+	<project name="openembedded-core"  path="oe-core" revision="9f339f516ab03d598fae0e536b3a420ea4d8ee1a" />
+	<project name="meta-openembedded"  path="meta-oe" revision="e8a8e0be8e39dbb949bf0f0df90abe1c4e3f6470"  />
+	<project name="meta-xilinx" remote="Xilinx" path="meta-xilinx" revision="13779b9254bab450875a60ed8f21edd0e8876a71" />
+	<project name="meta-sdr" remote="balister" path="meta-sdr" revision="e198621290fdf226a37a4d48249de35b6a3b7e65" />
 
 </manifest>
